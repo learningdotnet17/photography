@@ -2,7 +2,7 @@
 baseurl: "https://learningdotnet17.github.io"
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
-google_analytics: "UA-46465113-2"
+google_analytics: ""
 
 # UI configs
 title: "Photos by Brijesh Chawla"
@@ -14,7 +14,7 @@ header:
 footer:
  name: ""
  bio: ""
- github: "Want a website like this for yourself? <a href=\"https://github.com/ramswaroop/photography\">fork the repo on github</a> ;)"
+ github: "Site Credit: <a href=\"https://github.com/ramswaroop/photography\">Ram Patar</a>"
 web_design: ""
 social_urls:
   instagram: "https://www.instagram.com/brijeshchawla17"
