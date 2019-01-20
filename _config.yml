@@ -5,15 +5,15 @@ image_thumbs_loc: "/images/thumbs"
 google_analytics: ""
 
 # UI configs
-title: "Photos by Brijesh Chawla"
+title: "Brijesh Chawla"
 subtitle: "Cameras: Canon 6D, Fuji X-T1"
 author: "Brijesh Chawla"
 header:
  title: "Photos"
  subtitle: "by Brijesh Chawla"
 footer:
- name: ""
- bio: ""
+ name: "I started this journey in 2015"
+ bio: "I have been taking photos for a while. There are a couple of turning points of note. In 2007, I picked up my first DSLR. That was a game changer. And in 2015, I started enjoying making landscape photos. I now have the technical stuff more or less figured out. I am still working on the artistic side."
  github: "Site Credit: <a href=\"https://github.com/ramswaroop/photography\">Ram Patar</a>"
 web_design: ""
 social_urls:
