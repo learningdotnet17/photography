@@ -1,20 +1,27 @@
 # Base configs
-baseurl: "https://learningdotnet17.github.io"
-image_fulls_loc: "/images/fulls"
-image_thumbs_loc: "/images/thumbs"
-google_analytics: "UA-46465113-2"
+baseurl: 'https://brijeshchawla.com'
+image_fulls_loc: '/images/fulls'
+image_thumbs_loc: '/images/thumbs'
+google_analytics: 'UA-133744362-1'
 
 # UI configs
-title: "Photos by Brijesh Chawla"
-subtitle: "Cameras: Canon 6D, Fuji X-T1"
-author: "Brijesh Chawla"
+title: 'Brijesh Chawla'
+subtitle: 'Cameras: Canon 6D, Fuji X-T1, Sony alpha 7rIII (A7R3)'
+author: 'Brijesh Chawla'
 header:
- title: "Photos"
- subtitle: "by Brijesh Chawla"
+  title: 'Photos'
+  subtitle: 'by Brijesh Chawla'
 footer:
- name: ""
- bio: ""
- github: "Want a website like this for yourself? <a href=\"https://github.com/ramswaroop/photography\">fork the repo on github</a> ;)"
-web_design: ""
+  name: 'A Short Bio'
+  bio: 'I have been taking photos for a while. In 2007, I picked up my first DSLR - a Nikon D50. That was exciting. But I mostly just clicked around taking vacation and family snapshots. I learned a little bit of post processing. I switched to a D90 body a few years later.
+  
+  In 2013, I bought the Nikon D7000 and gave up on Nikon immediately afterwards. That camera was frustrating because it would miss focus half the times. That is why I switched to Canon and bought the 6D.
+
+  Then in 2015, I started enjoying making landscape photos. I loved the Canon ecosystem and their exceptional lenses. I tried adding a Fuji X-T1 in to the mix but it never really caught on with me. Every time I would pick up the Fuji, I missed my Canon. In 2019, I bought the Sony A7rIII. I am liking it a lot. So much so that I don't miss the Canon 6D. 
+  
+  These days I am trying to focus on the artistic side of making photos.'
+
+  github: 'Site Credit: <a href="https://github.com/ramswaroop/photography">Ram Patar</a>'
+web_design: ''
 social_urls:
-  instagram: "https://www.instagram.com/brijeshchawla17"
+  instagram: 'https://www.instagram.com/brijeshchawla17'
